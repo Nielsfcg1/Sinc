@@ -1,0 +1,62 @@
+Initialize engine version: 5.5.0f3 (38b4efef76f0)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 1070 (ID=0x1b81)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+    Driver:   21.21.13.7633
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\Drive\IGGJam2017\Builds\Windows\Final Build globalGameJam2017\Sinc_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Drive\IGGJam2017\Builds\Windows\Final Build globalGameJam2017\Sinc_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Drive\IGGJam2017\Builds\Windows\Final Build globalGameJam2017\Sinc_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading D:\Drive\IGGJam2017\Builds\Windows\Final Build globalGameJam2017\Sinc_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: D:\Drive\IGGJam2017\Builds\Windows\Final Build globalGameJam2017\Sinc_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\Drive\IGGJam2017\Builds\Windows\Final Build globalGameJam2017\Sinc_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\Drive\IGGJam2017\Builds\Windows\Final Build globalGameJam2017\Sinc_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\Drive\IGGJam2017\Builds\Windows\Final Build globalGameJam2017\Sinc_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\Drive\IGGJam2017\Builds\Windows\Final Build globalGameJam2017\Sinc_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\Drive\IGGJam2017\Builds\Windows\Final Build globalGameJam2017\Sinc_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\Drive\IGGJam2017\Builds\Windows\Final Build globalGameJam2017\Sinc_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading D:\Drive\IGGJam2017\Builds\Windows\Final Build globalGameJam2017\Sinc_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+- Completed reload, in  0.127 seconds
+Platform assembly: D:\Drive\IGGJam2017\Builds\Windows\Final Build globalGameJam2017\Sinc_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\Drive\IGGJam2017\Builds\Windows\Final Build globalGameJam2017\Sinc_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 75Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 3.534182 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 229c -> priority: 1 
+  Thread -> id: 3bf8 -> priority: 1 
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.036249 ms
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1367.
+Total: 0.273373 ms (FindLiveObjects: 0.033469 ms CreateObjectMapping: 0.020950 ms MarkObjects: 0.207201 ms  DeleteObjects: 0.011752 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.988232 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1367.
+Total: 0.285126 ms (FindLiveObjects: 0.036023 ms CreateObjectMapping: 0.020439 ms MarkObjects: 0.216399 ms  DeleteObjects: 0.011752 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.941222 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1367.
+Total: 0.284104 ms (FindLiveObjects: 0.039600 ms CreateObjectMapping: 0.024015 ms MarkObjects: 0.208223 ms  DeleteObjects: 0.011752 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.843370 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1367.
+Total: 0.265708 ms (FindLiveObjects: 0.034235 ms CreateObjectMapping: 0.019928 ms MarkObjects: 0.199026 ms  DeleteObjects: 0.012007 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.824719 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1367.
+Total: 0.289980 ms (FindLiveObjects: 0.046499 ms CreateObjectMapping: 0.022483 ms MarkObjects: 0.210012 ms  DeleteObjects: 0.010730 ms)
+
